@@ -1,5 +1,7 @@
 # AsanaBackend
 
+Before reading this file, please take a look at the [Project Overview](https://github.com/denys-kuzhyk/AsanaBackend/blob/master/ProjectOverview.md).
+
 Flask-based backend for the **AsanaApp** [Android client](https://github.com/denys-kuzhyk/AsanaAndroidApp).  
 It handles:
 
