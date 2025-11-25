@@ -33,9 +33,6 @@ It handles:
 ├── firebase_config.py # Firebase / Firestore configuration and initialization
 ├── main.py            # Entry point to run the backend (if used)
 └── session.py         # Session / auth utilities (e.g. JWT helpers)
-```
-
-> Note: Your private Firebase service account file (e.g. `firebase_key.json`) should not be committed to Git. Keep it local and add it to `.gitignore`.
 
 ---
 
