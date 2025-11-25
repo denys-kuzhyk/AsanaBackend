@@ -1,6 +1,6 @@
 # AsanaBackend
 
-Flask-based backend for the **AsanaApp** Android client.  
+Flask-based backend for the **AsanaApp** [Android client](https://github.com/denys-kuzhyk/AsanaAndroidApp).  
 It handles:
 
 - User authentication (login / signup / JWT refresh)
